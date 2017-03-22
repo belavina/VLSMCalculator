@@ -8,6 +8,6 @@ It takes IPv4 network address in CIDR format e.g. x.x.x.x/x, number of subnets t
 - balanaced (bal) will attemp to allocate as much extra addressing as possible for subnets with this mode.
 - max results in no remaining addresses after subnetting is finished (subnet will be as large as possible,  in case more than one subnet has this parameter, subnets will fall over into balanced mode)
 
-![alt tag](https://raw.githubusercontent.com/belavina/VLSMCalculator-/master/Sample.png)
+![alt tag](https://raw.githubusercontent.com/belavina/VLSMCalculator-/master/VLSM.png)
 
 You can play around with the program by downloading this jar file : [VLSMCalculator-](https://github.com/belavina/VLSMCalculator-/blob/master/VLSMCalculator.jar?raw=true)
